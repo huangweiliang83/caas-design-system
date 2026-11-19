@@ -1,0 +1,11 @@
+{
+  "name": "caas-design-system",
+  "owner": { "name": "Huang Weiliang, CAAS" },
+  "plugins": [
+    {
+      "name": "caas-design-system",
+      "source": "./plugins/caas-design-system",
+      "description": "CAAS Design System tokens, components and rules for Claude Code"
+    }
+  ]
+}

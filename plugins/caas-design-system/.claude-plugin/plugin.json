@@ -1,0 +1,6 @@
+{
+  "name": "caas-design-system",
+  "version": "0.1.0",
+  "description": "Teaches Claude to build UI with the CAAS Design System",
+  "author": { "name": "Huang Weiliang, CAAS" }
+}
